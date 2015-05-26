@@ -1,9 +1,25 @@
 # SabinukikanojyoTranslation
 
+无芥末女友中文翻译
+
+欢迎来到雪莉娜同好会的Github合作项目，
+请随意Watch,Star,甚至Fork。
+
+・翻译错误报告？
+   -提交issue或push request给我们，我们会及时反馈解决。
+
+・围观/加入我们？
+   -QQ群198422679，欢迎光临，虽然说围观汉化工作直接Watch改项目即可
+
+・其他合作？
+   -发送邮件到 wbclzh1#163.com，目前我们也希望与各种同好组织加深同性♂交友建设以及进行各种合作项目
 
 
-QQGroup at 198422679.
+・其他注意事项
+   -目前并没有联系原作者授权，所以尚不规范，这个问题之后会处理
+   -将该项目用于商业项目的请去死好吗？
+   -目前来说国内的漫画网站在支持申诉侵权即删的条件下可以直接使用我们的内容
+   -转载请保留我们的招募页面信息，跪谢
+  
 
-artist's pixiv webpage visit http://www.pixiv.net/member.php?id=463912 
-
-
+最后只能说雪莉娜保留一切对项目的解释权利 All Rights Reserved.
