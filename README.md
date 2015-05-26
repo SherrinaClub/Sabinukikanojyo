@@ -1,4 +1,4 @@
-# SabinukikanojyoTranslation
+# Sabinukikanojyo
 
 无芥末女友中文翻译
 
